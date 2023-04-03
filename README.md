@@ -17,7 +17,3 @@
 ![Screenshot of removing contact ](./Screenshoots/05-remove-contact.png)
 
 
-### Double commands problem
-
-I'm not sure  why this keeps happening. I assume that's nodemon is causing this. 
-When I run this on simple "node index.js" everything seems normal but program doesn't keep track of changes.
