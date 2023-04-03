@@ -1,0 +1,23 @@
+{
+  "name": "goit-nodejs-7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js ",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nanoid": "^4.0.2",
+    "prettier": "^2.8.7"
+  }
+}

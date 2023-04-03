@@ -1,0 +1,4 @@
+import fs form "fs";
+import path from "path";
+
+const contactsPath = "./db/constacts.json";
