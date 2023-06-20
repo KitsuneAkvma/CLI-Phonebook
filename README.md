@@ -1,4 +1,4 @@
-# goit-nodejs-7 - Simple CLI contact's menager created using node.js.
+# Simple CLI contact's menager created using node.js.
 
 
 ## Home
